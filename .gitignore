@@ -13,10 +13,10 @@ build
 *.swp
 *.DS_Store
 .idea
-.vscode
 catalina.base_IS_UNDEFINED/
 keystore.jks
 bin/
+temp_auto_push.bat
 .lock
 fineract-provider/out/
 fineract-provider/config/swagger/config.json
@@ -35,3 +35,5 @@ gradleExp/
 .java-version
 
 .windsurf/
+.gitignore
+branch_structure.json
